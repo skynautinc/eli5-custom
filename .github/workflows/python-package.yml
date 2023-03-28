@@ -2,7 +2,7 @@ name: Upload-libraries
 on:
   push:
     branches:
-    - develop
+    - master
 
 jobs:
   build:
